@@ -72,4 +72,4 @@ while True:
 
 	pygame.display.update()
 
-	time.sleep(0.005)
+	time.sleep(0.02)
